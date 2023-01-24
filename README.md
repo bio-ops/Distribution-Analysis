@@ -22,6 +22,7 @@ OlympicsMedals.xlsx
 
 Visually analyze the distribution of medal counts for individual participating countries
 
+**Data Fields**
 OlympicsCountries.xlsx
 - Participating Country
 - Gold
