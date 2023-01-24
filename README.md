@@ -16,4 +16,18 @@ OlympicsMedals.xlsx
 - Participant: null value for team events
 - Country
 
+## Olympics Countries
+
+**Goal**
+
+Visually analyze the distribution of medal counts for individual participating countries
+
+OlympicsCountries.xlsx
+- Participating Country
+- Gold
+- Silver
+- Bronze
+- Overall
+
+
 
